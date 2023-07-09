@@ -17,7 +17,7 @@ Start by familiarizing yourself with the code and the functionality, then work
 through each component and convert them to class components.
 
 Make sure to pay attention to syntax (and in particular, `this` and arrow
-functions). Also make sure you are initializing and setting state correctly.
+functions). Also make sure you are initializing and setting state correctly...
 
 ## Resources
 
